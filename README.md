@@ -13,8 +13,6 @@ iconserver/
 	static/
 		css/
 			fontname.css
-iconserver/
-	static/
 		fonts/
 			fontname.eot
 			fontname.svg
@@ -23,3 +21,33 @@ iconserver/
 ```
 
 See [here](https://github.com/deanishe/bundler-icon-server#configuration) for information on the JSON config file format.
+
+
+## Icon Fonts ##
+
+The following font packs are included in this repo.
+
+### Octicons ###
+
+[GitHub's own icons][octicons] by [GitHub][github]. Released under the [SIL][sil] and [MIT][mit-licence] licences.
+
+
+### Open Iconic ###
+
+[Over 200 icons][iconic] with no particular theme by [@useiconic][useiconic]. Released under the [Open Font][open-font] and [MIT][mit-licence] licences.
+
+
+### Weather Icons ###
+
+[Over 200 weather-themed icons][weather] by [Erik Flowers][erik]. Released under the [SIL][sil] and [MIT][mit-licence] licences.
+
+
+[octicons]: https://octicons.github.com/
+[iconic]: https://useiconic.com/open/
+[weather]: https://erikflowers.github.io/weather-icons/
+[open-font]: http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web
+[mit-licence]: http://opensource.org/licenses/MIT
+[sil]: http://scripts.sil.org/OFL
+[erik]: http://www.twitter.com/Erik_UX
+[useiconic]: https://twitter.com/useiconic
+[github]: https://github.com/
