@@ -1,6 +1,6 @@
-# Bundler Icon Server Icon Packs #
+# Icon Server Icon Packs #
 
-These are webfonts and accompanying files pre-packaged for the [Bundler Icon Server](https://github.com/deanishe/bundler-icon-server).
+These are webfonts and accompanying files pre-packaged for the [Icon Server](https://github.com/deanishe/bundler-icon-server).
 
 Extract the archive in the root of the installed server to install the font, and restart the server to load it.
 
