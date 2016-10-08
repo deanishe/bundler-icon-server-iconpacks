@@ -27,6 +27,12 @@ See [here](https://github.com/deanishe/bundler-icon-server#configuration) for in
 
 The following font packs are included in this repo.
 
+
+### Material Design ###
+
+[Material Design Iconic Font][material] (based on Google's Material Design) by [Sergey Kupletsky][kupletsky]. Released under the [SIL][sil] and [MIT][mit-licence] licences.
+
+
 ### Octicons ###
 
 [GitHub's own icons][octicons] by [GitHub][github]. Released under the [SIL][sil] and [MIT][mit-licence] licences.
@@ -42,6 +48,8 @@ The following font packs are included in this repo.
 [Over 200 weather-themed icons][weather] by [Erik Flowers][erik]. Released under the [SIL][sil] and [MIT][mit-licence] licences.
 
 
+[material]: http://zavoloklom.github.io/material-design-iconic-font/
+[kupletsky]: http://twitter.com/zavoloklom
 [octicons]: https://octicons.github.com/
 [iconic]: https://useiconic.com/open/
 [weather]: https://erikflowers.github.io/weather-icons/
